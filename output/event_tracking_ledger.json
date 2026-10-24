@@ -1,0 +1,2651 @@
+[
+  {
+    "timestamp": "2026-10-19T10:00:00Z",
+    "frame_idx": 0,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "GENESIS",
+        "age_frames": 1,
+        "spatial": {
+          "centroid_px": [
+            80.0,
+            120.0
+          ],
+          "centroid_geo": {
+            "lon": 75.563,
+            "lat": 18.9054
+          },
+          "bbox_px": [
+            64,
+            106,
+            33,
+            29
+          ],
+          "area_km2": 3806.2,
+          "perimeter_km": 244.4,
+          "solidity": 0.967,
+          "circularity": 0.801,
+          "eccentricity": 0.771,
+          "aspect_ratio": 1.57
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            0.0,
+            0.0
+          ],
+          "speed_kmh": 0.0,
+          "bearing_deg": 0.0,
+          "growth_rate_pct_hr": 0.0,
+          "intensity_trend_dbz_hr": 0.0
+        },
+        "radiometric": {
+          "max_intensity": 52.0,
+          "mean_intensity": 44.2,
+          "p90_intensity": 50.2,
+          "core_area_km2": 2618.8,
+          "core_ratio": 0.688
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.3806,
+            0.54,
+            0.9667,
+            0.7709,
+            1.0,
+            0.0,
+            0.5,
+            0.0008
+          ],
+          "genes": {
+            "Spatial Scale": 0.3806,
+            "Convective Vigour": 0.54,
+            "Structural Compactness": 0.9667,
+            "Shear Asymmetry": 0.7709,
+            "Core Density": 1.0,
+            "Ground Speed": 0.0,
+            "Growth Momentum": 0.5,
+            "Textural Gradient": 0.0008
+          },
+          "deep_embedding": [
+            0.2654,
+            0.2494,
+            0.2406,
+            0.2407,
+            0.2601,
+            0.2415,
+            0.2407,
+            0.2408,
+            0.27,
+            0.2513,
+            0.2405,
+            0.2406,
+            0.2851,
+            0.2458,
+            0.2412,
+            0.2408
+          ],
+          "raw_metrics": {
+            "area_km2": 3806.25,
+            "max_intensity": 52.0,
+            "mean_intensity": 44.17,
+            "speed_kmh": 0.0,
+            "bearing_deg": 0.0,
+            "growth_rate_pct_hr": 0.0,
+            "solidity": 0.97,
+            "core_ratio": 0.69
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "GENESIS",
+        "age_frames": 1,
+        "spatial": {
+          "centroid_px": [
+            260.0,
+            280.0
+          ],
+          "centroid_geo": {
+            "lon": 80.2049,
+            "lat": 14.7794
+          },
+          "bbox_px": [
+            239,
+            266,
+            43,
+            29
+          ],
+          "area_km2": 5368.8,
+          "perimeter_km": 288.5,
+          "solidity": 0.983,
+          "circularity": 0.811,
+          "eccentricity": 0.825,
+          "aspect_ratio": 1.77
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            0.0,
+            0.0
+          ],
+          "speed_kmh": 0.0,
+          "bearing_deg": 0.0,
+          "growth_rate_pct_hr": 0.0,
+          "intensity_trend_dbz_hr": 0.0
+        },
+        "radiometric": {
+          "max_intensity": 44.0,
+          "mean_intensity": 38.5,
+          "p90_intensity": 42.8,
+          "core_area_km2": 868.8,
+          "core_ratio": 0.162
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.5369,
+            0.38,
+            0.9828,
+            0.8248,
+            0.4854,
+            0.0,
+            0.5,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.5369,
+            "Convective Vigour": 0.38,
+            "Structural Compactness": 0.9828,
+            "Shear Asymmetry": 0.8248,
+            "Core Density": 0.4854,
+            "Ground Speed": 0.0,
+            "Growth Momentum": 0.5,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2642,
+            0.2494,
+            0.2428,
+            0.2428,
+            0.2847,
+            0.2474,
+            0.2433,
+            0.2429,
+            0.253,
+            0.2503,
+            0.2426,
+            0.2427,
+            0.2607,
+            0.2436,
+            0.2428,
+            0.2428
+          ],
+          "raw_metrics": {
+            "area_km2": 5368.75,
+            "max_intensity": 44.0,
+            "mean_intensity": 38.46,
+            "speed_kmh": 0.0,
+            "bearing_deg": 0.0,
+            "growth_rate_pct_hr": 0.0,
+            "solidity": 0.98,
+            "core_ratio": 0.16
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T10:15:00Z",
+    "frame_idx": 1,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 2,
+        "spatial": {
+          "centroid_px": [
+            84.5,
+            123.0
+          ],
+          "centroid_geo": {
+            "lon": 75.6791,
+            "lat": 18.8281
+          },
+          "bbox_px": [
+            68,
+            109,
+            34,
+            29
+          ],
+          "area_km2": 4256.2,
+          "perimeter_km": 249.4,
+          "solidity": 0.99,
+          "circularity": 0.86,
+          "eccentricity": 0.776,
+          "aspect_ratio": 1.59
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            21.23,
+            -14.15
+          ],
+          "speed_kmh": 25.51,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 47.3,
+          "intensity_trend_dbz_hr": 3.1
+        },
+        "radiometric": {
+          "max_intensity": 52.8,
+          "mean_intensity": 44.5,
+          "p90_intensity": 50.9,
+          "core_area_km2": 2950.0,
+          "core_ratio": 0.693
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.4256,
+            0.5556,
+            0.9898,
+            0.7764,
+            1.0,
+            0.2551,
+            0.9729,
+            0.0008
+          ],
+          "genes": {
+            "Spatial Scale": 0.4256,
+            "Convective Vigour": 0.5556,
+            "Structural Compactness": 0.9898,
+            "Shear Asymmetry": 0.7764,
+            "Core Density": 1.0,
+            "Ground Speed": 0.2551,
+            "Growth Momentum": 0.9729,
+            "Textural Gradient": 0.0008
+          },
+          "deep_embedding": [
+            0.2578,
+            0.2506,
+            0.2437,
+            0.2437,
+            0.261,
+            0.2443,
+            0.2438,
+            0.2438,
+            0.2494,
+            0.2489,
+            0.2437,
+            0.2438,
+            0.2853,
+            0.2484,
+            0.2443,
+            0.2439
+          ],
+          "raw_metrics": {
+            "area_km2": 4256.25,
+            "max_intensity": 52.78,
+            "mean_intensity": 44.47,
+            "speed_kmh": 25.51,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 47.29,
+            "solidity": 0.99,
+            "core_ratio": 0.69
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "ACTIVE",
+        "age_frames": 2,
+        "spatial": {
+          "centroid_px": [
+            257.98,
+            281.79
+          ],
+          "centroid_geo": {
+            "lon": 80.1529,
+            "lat": 14.7331
+          },
+          "bbox_px": [
+            237,
+            268,
+            43,
+            29
+          ],
+          "area_km2": 5312.5,
+          "perimeter_km": 288.5,
+          "solidity": 0.982,
+          "circularity": 0.802,
+          "eccentricity": 0.824,
+          "aspect_ratio": 1.77
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -9.51,
+            -8.46
+          ],
+          "speed_kmh": 12.73,
+          "bearing_deg": 228.3,
+          "growth_rate_pct_hr": -4.2,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 43.6,
+          "mean_intensity": 38.2,
+          "p90_intensity": 42.4,
+          "core_area_km2": 700.0,
+          "core_ratio": 0.132
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.5312,
+            0.372,
+            0.9815,
+            0.8242,
+            0.3953,
+            0.1273,
+            0.4581,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.5312,
+            "Convective Vigour": 0.372,
+            "Structural Compactness": 0.9815,
+            "Shear Asymmetry": 0.8242,
+            "Core Density": 0.3953,
+            "Ground Speed": 0.1273,
+            "Growth Momentum": 0.4581,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2662,
+            0.2492,
+            0.2422,
+            0.2422,
+            0.2858,
+            0.2469,
+            0.2427,
+            0.2423,
+            0.2533,
+            0.2502,
+            0.242,
+            0.2421,
+            0.2628,
+            0.2431,
+            0.2423,
+            0.2423
+          ],
+          "raw_metrics": {
+            "area_km2": 5312.5,
+            "max_intensity": 43.6,
+            "mean_intensity": 38.2,
+            "speed_kmh": 12.73,
+            "bearing_deg": 228.33,
+            "growth_rate_pct_hr": -4.19,
+            "solidity": 0.98,
+            "core_ratio": 0.13
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T10:30:00Z",
+    "frame_idx": 2,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 3,
+        "spatial": {
+          "centroid_px": [
+            89.0,
+            126.0
+          ],
+          "centroid_geo": {
+            "lon": 75.7951,
+            "lat": 18.7507
+          },
+          "bbox_px": [
+            71,
+            111,
+            37,
+            31
+          ],
+          "area_km2": 4818.8,
+          "perimeter_km": 268.5,
+          "solidity": 0.981,
+          "circularity": 0.84,
+          "eccentricity": 0.768,
+          "aspect_ratio": 1.56
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            39.59,
+            -26.39
+          ],
+          "speed_kmh": 47.58,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 52.9,
+          "intensity_trend_dbz_hr": 3.3
+        },
+        "radiometric": {
+          "max_intensity": 53.6,
+          "mean_intensity": 44.6,
+          "p90_intensity": 51.5,
+          "core_area_km2": 3306.2,
+          "core_ratio": 0.686
+        },
+        "storm_dna": {
+          "archetype": "Squall Line / Linear Multicell",
+          "vector": [
+            0.4819,
+            0.572,
+            0.9809,
+            0.7683,
+            1.0,
+            0.4758,
+            1.0,
+            0.0008
+          ],
+          "genes": {
+            "Spatial Scale": 0.4819,
+            "Convective Vigour": 0.572,
+            "Structural Compactness": 0.9809,
+            "Shear Asymmetry": 0.7683,
+            "Core Density": 1.0,
+            "Ground Speed": 0.4758,
+            "Growth Momentum": 1.0,
+            "Textural Gradient": 0.0008
+          },
+          "deep_embedding": [
+            0.2738,
+            0.2508,
+            0.2419,
+            0.2419,
+            0.2605,
+            0.2427,
+            0.2421,
+            0.2421,
+            0.2509,
+            0.2477,
+            0.242,
+            0.242,
+            0.2849,
+            0.2469,
+            0.2426,
+            0.2422
+          ],
+          "raw_metrics": {
+            "area_km2": 4818.75,
+            "max_intensity": 53.6,
+            "mean_intensity": 44.63,
+            "speed_kmh": 47.58,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 52.86,
+            "solidity": 0.98,
+            "core_ratio": 0.69
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "ACTIVE",
+        "age_frames": 3,
+        "spatial": {
+          "centroid_px": [
+            256.05,
+            283.59
+          ],
+          "centroid_geo": {
+            "lon": 80.103,
+            "lat": 14.6868
+          },
+          "bbox_px": [
+            235,
+            270,
+            43,
+            28
+          ],
+          "area_km2": 5253.1,
+          "perimeter_km": 287.9,
+          "solidity": 0.977,
+          "circularity": 0.797,
+          "eccentricity": 0.824,
+          "aspect_ratio": 1.77
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -17.15,
+            -15.81
+          ],
+          "speed_kmh": 23.32,
+          "bearing_deg": 227.3,
+          "growth_rate_pct_hr": -4.5,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 43.2,
+          "mean_intensity": 37.9,
+          "p90_intensity": 42.1,
+          "core_area_km2": 531.2,
+          "core_ratio": 0.101
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.5253,
+            0.3638,
+            0.9773,
+            0.8241,
+            0.3034,
+            0.2332,
+            0.4553,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.5253,
+            "Convective Vigour": 0.3638,
+            "Structural Compactness": 0.9773,
+            "Shear Asymmetry": 0.8241,
+            "Core Density": 0.3034,
+            "Ground Speed": 0.2332,
+            "Growth Momentum": 0.4553,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.273,
+            0.2504,
+            0.2426,
+            0.2426,
+            0.2797,
+            0.2469,
+            0.2431,
+            0.2427,
+            0.2516,
+            0.2487,
+            0.2425,
+            0.2426,
+            0.2609,
+            0.2432,
+            0.2427,
+            0.2427
+          ],
+          "raw_metrics": {
+            "area_km2": 5253.12,
+            "max_intensity": 43.19,
+            "mean_intensity": 37.94,
+            "speed_kmh": 23.32,
+            "bearing_deg": 227.33,
+            "growth_rate_pct_hr": -4.47,
+            "solidity": 0.98,
+            "core_ratio": 0.1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T10:45:00Z",
+    "frame_idx": 3,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 4,
+        "spatial": {
+          "centroid_px": [
+            93.5,
+            129.0
+          ],
+          "centroid_geo": {
+            "lon": 75.9112,
+            "lat": 18.6734
+          },
+          "bbox_px": [
+            75,
+            113,
+            38,
+            33
+          ],
+          "area_km2": 5293.8,
+          "perimeter_km": 283.5,
+          "solidity": 0.977,
+          "circularity": 0.828,
+          "eccentricity": 0.759,
+          "aspect_ratio": 1.54
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            43.33,
+            -28.89
+          ],
+          "speed_kmh": 52.08,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 39.4,
+          "intensity_trend_dbz_hr": 3.1
+        },
+        "radiometric": {
+          "max_intensity": 54.4,
+          "mean_intensity": 45.0,
+          "p90_intensity": 52.3,
+          "core_area_km2": 3712.5,
+          "core_ratio": 0.701
+        },
+        "storm_dna": {
+          "archetype": "Squall Line / Linear Multicell",
+          "vector": [
+            0.5294,
+            0.5876,
+            0.9769,
+            0.7594,
+            1.0,
+            0.5208,
+            0.8943,
+            0.0008
+          ],
+          "genes": {
+            "Spatial Scale": 0.5294,
+            "Convective Vigour": 0.5876,
+            "Structural Compactness": 0.9769,
+            "Shear Asymmetry": 0.7594,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5208,
+            "Growth Momentum": 0.8943,
+            "Textural Gradient": 0.0008
+          },
+          "deep_embedding": [
+            0.2712,
+            0.2501,
+            0.2422,
+            0.2422,
+            0.26,
+            0.243,
+            0.2423,
+            0.2423,
+            0.2549,
+            0.2497,
+            0.2422,
+            0.2422,
+            0.2813,
+            0.2469,
+            0.2427,
+            0.2424
+          ],
+          "raw_metrics": {
+            "area_km2": 5293.75,
+            "max_intensity": 54.38,
+            "mean_intensity": 44.97,
+            "speed_kmh": 52.08,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 39.43,
+            "solidity": 0.98,
+            "core_ratio": 0.7
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "ACTIVE",
+        "age_frames": 4,
+        "spatial": {
+          "centroid_px": [
+            254.01,
+            285.41
+          ],
+          "centroid_geo": {
+            "lon": 80.0504,
+            "lat": 14.6397
+          },
+          "bbox_px": [
+            233,
+            272,
+            43,
+            28
+          ],
+          "area_km2": 5034.4,
+          "perimeter_km": 285.0,
+          "solidity": 0.975,
+          "circularity": 0.779,
+          "eccentricity": 0.831,
+          "aspect_ratio": 1.8
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -19.18,
+            -17.43
+          ],
+          "speed_kmh": 25.92,
+          "bearing_deg": 227.7,
+          "growth_rate_pct_hr": -16.7,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 42.8,
+          "mean_intensity": 37.8,
+          "p90_intensity": 41.7,
+          "core_area_km2": 343.8,
+          "core_ratio": 0.068
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.5034,
+            0.3558,
+            0.9752,
+            0.8308,
+            0.2048,
+            0.2592,
+            0.3334,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.5034,
+            "Convective Vigour": 0.3558,
+            "Structural Compactness": 0.9752,
+            "Shear Asymmetry": 0.8308,
+            "Core Density": 0.2048,
+            "Ground Speed": 0.2592,
+            "Growth Momentum": 0.3334,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2813,
+            0.2499,
+            0.2408,
+            0.2409,
+            0.2847,
+            0.2458,
+            0.2415,
+            0.2411,
+            0.2502,
+            0.2481,
+            0.2409,
+            0.241,
+            0.2635,
+            0.2419,
+            0.2411,
+            0.2411
+          ],
+          "raw_metrics": {
+            "area_km2": 5034.38,
+            "max_intensity": 42.79,
+            "mean_intensity": 37.81,
+            "speed_kmh": 25.92,
+            "bearing_deg": 227.74,
+            "growth_rate_pct_hr": -16.66,
+            "solidity": 0.98,
+            "core_ratio": 0.07
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T11:00:00Z",
+    "frame_idx": 4,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "MATURE",
+        "age_frames": 5,
+        "spatial": {
+          "centroid_px": [
+            98.0,
+            132.0
+          ],
+          "centroid_geo": {
+            "lon": 76.0272,
+            "lat": 18.596
+          },
+          "bbox_px": [
+            79,
+            116,
+            39,
+            33
+          ],
+          "area_km2": 5600.0,
+          "perimeter_km": 291.4,
+          "solidity": 0.981,
+          "circularity": 0.829,
+          "eccentricity": 0.765,
+          "aspect_ratio": 1.55
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            44.48,
+            -29.65
+          ],
+          "speed_kmh": 53.45,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 23.1,
+          "intensity_trend_dbz_hr": 3.3
+        },
+        "radiometric": {
+          "max_intensity": 55.2,
+          "mean_intensity": 45.6,
+          "p90_intensity": 52.9,
+          "core_area_km2": 4093.8,
+          "core_ratio": 0.731
+        },
+        "storm_dna": {
+          "archetype": "Squall Line / Linear Multicell",
+          "vector": [
+            0.56,
+            0.604,
+            0.9814,
+            0.7645,
+            1.0,
+            0.5345,
+            0.7314,
+            0.0007
+          ],
+          "genes": {
+            "Spatial Scale": 0.56,
+            "Convective Vigour": 0.604,
+            "Structural Compactness": 0.9814,
+            "Shear Asymmetry": 0.7645,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5345,
+            "Growth Momentum": 0.7314,
+            "Textural Gradient": 0.0007
+          },
+          "deep_embedding": [
+            0.2692,
+            0.2508,
+            0.2427,
+            0.2428,
+            0.2564,
+            0.2433,
+            0.2429,
+            0.2429,
+            0.256,
+            0.2487,
+            0.2428,
+            0.2428,
+            0.2813,
+            0.2473,
+            0.2433,
+            0.2429
+          ],
+          "raw_metrics": {
+            "area_km2": 5600.0,
+            "max_intensity": 55.2,
+            "mean_intensity": 45.56,
+            "speed_kmh": 53.45,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 23.14,
+            "solidity": 0.98,
+            "core_ratio": 0.73
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 5,
+        "spatial": {
+          "centroid_px": [
+            251.93,
+            287.3
+          ],
+          "centroid_geo": {
+            "lon": 79.9967,
+            "lat": 14.5912
+          },
+          "bbox_px": [
+            232,
+            275,
+            41,
+            26
+          ],
+          "area_km2": 4678.1,
+          "perimeter_km": 273.7,
+          "solidity": 0.981,
+          "circularity": 0.785,
+          "eccentricity": 0.834,
+          "aspect_ratio": 1.81
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -20.09,
+            -18.19
+          ],
+          "speed_kmh": 27.1,
+          "bearing_deg": 227.8,
+          "growth_rate_pct_hr": -28.3,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 42.4,
+          "mean_intensity": 37.8,
+          "p90_intensity": 41.4,
+          "core_area_km2": 106.2,
+          "core_ratio": 0.023
+        },
+        "storm_dna": {
+          "archetype": "Decaying Stratiform Shield",
+          "vector": [
+            0.4678,
+            0.348,
+            0.981,
+            0.8335,
+            0.0681,
+            0.271,
+            0.2169,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.4678,
+            "Convective Vigour": 0.348,
+            "Structural Compactness": 0.981,
+            "Shear Asymmetry": 0.8335,
+            "Core Density": 0.0681,
+            "Ground Speed": 0.271,
+            "Growth Momentum": 0.2169,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2771,
+            0.2502,
+            0.2423,
+            0.2424,
+            0.2821,
+            0.2467,
+            0.2429,
+            0.2425,
+            0.2481,
+            0.2478,
+            0.2424,
+            0.2424,
+            0.2605,
+            0.2428,
+            0.2425,
+            0.2425
+          ],
+          "raw_metrics": {
+            "area_km2": 4678.12,
+            "max_intensity": 42.4,
+            "mean_intensity": 37.78,
+            "speed_kmh": 27.1,
+            "bearing_deg": 227.84,
+            "growth_rate_pct_hr": -28.31,
+            "solidity": 0.98,
+            "core_ratio": 0.02
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T11:15:00Z",
+    "frame_idx": 5,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 6,
+        "spatial": {
+          "centroid_px": [
+            102.5,
+            135.0
+          ],
+          "centroid_geo": {
+            "lon": 76.1433,
+            "lat": 18.5186
+          },
+          "bbox_px": [
+            83,
+            118,
+            40,
+            35
+          ],
+          "area_km2": 5987.5,
+          "perimeter_km": 300.6,
+          "solidity": 0.981,
+          "circularity": 0.833,
+          "eccentricity": 0.765,
+          "aspect_ratio": 1.55
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            44.9,
+            -29.93
+          ],
+          "speed_kmh": 53.96,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 27.7,
+          "intensity_trend_dbz_hr": 3.1
+        },
+        "radiometric": {
+          "max_intensity": 56.0,
+          "mean_intensity": 46.1,
+          "p90_intensity": 53.8,
+          "core_area_km2": 4537.5,
+          "core_ratio": 0.758
+        },
+        "storm_dna": {
+          "archetype": "Squall Line / Linear Multicell",
+          "vector": [
+            0.5987,
+            0.6197,
+            0.9806,
+            0.7653,
+            1.0,
+            0.5396,
+            0.7768,
+            0.0007
+          ],
+          "genes": {
+            "Spatial Scale": 0.5987,
+            "Convective Vigour": 0.6197,
+            "Structural Compactness": 0.9806,
+            "Shear Asymmetry": 0.7653,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5396,
+            "Growth Momentum": 0.7768,
+            "Textural Gradient": 0.0007
+          },
+          "deep_embedding": [
+            0.2693,
+            0.2493,
+            0.2421,
+            0.2421,
+            0.2588,
+            0.2428,
+            0.2422,
+            0.2422,
+            0.2579,
+            0.2497,
+            0.2421,
+            0.2421,
+            0.2832,
+            0.247,
+            0.2427,
+            0.2423
+          ],
+          "raw_metrics": {
+            "area_km2": 5987.5,
+            "max_intensity": 55.98,
+            "mean_intensity": 46.07,
+            "speed_kmh": 53.96,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 27.68,
+            "solidity": 0.98,
+            "core_ratio": 0.76
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 6,
+        "spatial": {
+          "centroid_px": [
+            250.0,
+            289.0
+          ],
+          "centroid_geo": {
+            "lon": 79.947,
+            "lat": 14.5473
+          },
+          "bbox_px": [
+            230,
+            276,
+            41,
+            27
+          ],
+          "area_km2": 4325.0,
+          "perimeter_km": 271.4,
+          "solidity": 0.96,
+          "circularity": 0.738,
+          "eccentricity": 0.844,
+          "aspect_ratio": 1.86
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -19.98,
+            -17.92
+          ],
+          "speed_kmh": 26.84,
+          "bearing_deg": 228.1,
+          "growth_rate_pct_hr": -30.2,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 42.0,
+          "mean_intensity": 37.8,
+          "p90_intensity": 41.1,
+          "core_area_km2": 0.0,
+          "core_ratio": 0.0
+        },
+        "storm_dna": {
+          "archetype": "Decaying Stratiform Shield",
+          "vector": [
+            0.4325,
+            0.34,
+            0.9598,
+            0.844,
+            0.0,
+            0.2684,
+            0.1981,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.4325,
+            "Convective Vigour": 0.34,
+            "Structural Compactness": 0.9598,
+            "Shear Asymmetry": 0.844,
+            "Core Density": 0.0,
+            "Ground Speed": 0.2684,
+            "Growth Momentum": 0.1981,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2894,
+            0.248,
+            0.2382,
+            0.2382,
+            0.2843,
+            0.2435,
+            0.2388,
+            0.2384,
+            0.2631,
+            0.2519,
+            0.238,
+            0.2381,
+            0.2653,
+            0.2393,
+            0.2384,
+            0.2384
+          ],
+          "raw_metrics": {
+            "area_km2": 4325.0,
+            "max_intensity": 42.0,
+            "mean_intensity": 37.75,
+            "speed_kmh": 26.84,
+            "bearing_deg": 228.11,
+            "growth_rate_pct_hr": -30.19,
+            "solidity": 0.96,
+            "core_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T11:30:00Z",
+    "frame_idx": 6,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "MATURE",
+        "age_frames": 7,
+        "spatial": {
+          "centroid_px": [
+            107.0,
+            138.0
+          ],
+          "centroid_geo": {
+            "lon": 76.2593,
+            "lat": 18.4413
+          },
+          "bbox_px": [
+            87,
+            120,
+            41,
+            37
+          ],
+          "area_km2": 6325.0,
+          "perimeter_km": 309.7,
+          "solidity": 0.98,
+          "circularity": 0.829,
+          "eccentricity": 0.763,
+          "aspect_ratio": 1.55
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            45.03,
+            -30.02
+          ],
+          "speed_kmh": 54.12,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 22.5,
+          "intensity_trend_dbz_hr": 3.3
+        },
+        "radiometric": {
+          "max_intensity": 56.8,
+          "mean_intensity": 46.7,
+          "p90_intensity": 54.5,
+          "core_area_km2": 4968.8,
+          "core_ratio": 0.786
+        },
+        "storm_dna": {
+          "archetype": "Squall Line / Linear Multicell",
+          "vector": [
+            0.6325,
+            0.636,
+            0.9797,
+            0.7634,
+            1.0,
+            0.5412,
+            0.7255,
+            0.0006
+          ],
+          "genes": {
+            "Spatial Scale": 0.6325,
+            "Convective Vigour": 0.636,
+            "Structural Compactness": 0.9797,
+            "Shear Asymmetry": 0.7634,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5412,
+            "Growth Momentum": 0.7255,
+            "Textural Gradient": 0.0006
+          },
+          "deep_embedding": [
+            0.2669,
+            0.2485,
+            0.2413,
+            0.2413,
+            0.2599,
+            0.2423,
+            0.2414,
+            0.2414,
+            0.2641,
+            0.2511,
+            0.2412,
+            0.2412,
+            0.285,
+            0.2464,
+            0.2418,
+            0.2414
+          ],
+          "raw_metrics": {
+            "area_km2": 6325.0,
+            "max_intensity": 56.8,
+            "mean_intensity": 46.67,
+            "speed_kmh": 54.12,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 22.55,
+            "solidity": 0.98,
+            "core_ratio": 0.79
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 7,
+        "spatial": {
+          "centroid_px": [
+            247.92,
+            290.82
+          ],
+          "centroid_geo": {
+            "lon": 79.8934,
+            "lat": 14.5002
+          },
+          "bbox_px": [
+            229,
+            279,
+            39,
+            25
+          ],
+          "area_km2": 3971.9,
+          "perimeter_km": 255.8,
+          "solidity": 0.976,
+          "circularity": 0.763,
+          "eccentricity": 0.85,
+          "aspect_ratio": 1.9
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -20.24,
+            -17.98
+          ],
+          "speed_kmh": 27.07,
+          "bearing_deg": 228.4,
+          "growth_rate_pct_hr": -32.7,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 41.6,
+          "mean_intensity": 37.7,
+          "p90_intensity": 40.8,
+          "core_area_km2": 0.0,
+          "core_ratio": 0.0
+        },
+        "storm_dna": {
+          "archetype": "Decaying Stratiform Shield",
+          "vector": [
+            0.3972,
+            0.332,
+            0.9762,
+            0.8501,
+            0.0,
+            0.2707,
+            0.1734,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.3972,
+            "Convective Vigour": 0.332,
+            "Structural Compactness": 0.9762,
+            "Shear Asymmetry": 0.8501,
+            "Core Density": 0.0,
+            "Ground Speed": 0.2707,
+            "Growth Momentum": 0.1734,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2825,
+            0.2494,
+            0.2411,
+            0.2411,
+            0.285,
+            0.2461,
+            0.2417,
+            0.2412,
+            0.2458,
+            0.2485,
+            0.2411,
+            0.2411,
+            0.2646,
+            0.2419,
+            0.2412,
+            0.2412
+          ],
+          "raw_metrics": {
+            "area_km2": 3971.88,
+            "max_intensity": 41.6,
+            "mean_intensity": 37.72,
+            "speed_kmh": 27.07,
+            "bearing_deg": 228.39,
+            "growth_rate_pct_hr": -32.66,
+            "solidity": 0.98,
+            "core_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T11:45:00Z",
+    "frame_idx": 7,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 8,
+        "spatial": {
+          "centroid_px": [
+            111.5,
+            141.0
+          ],
+          "centroid_geo": {
+            "lon": 76.3754,
+            "lat": 18.3639
+          },
+          "bbox_px": [
+            91,
+            123,
+            42,
+            37
+          ],
+          "area_km2": 6831.2,
+          "perimeter_km": 317.6,
+          "solidity": 0.986,
+          "circularity": 0.851,
+          "eccentricity": 0.762,
+          "aspect_ratio": 1.54
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            45.06,
+            -30.04
+          ],
+          "speed_kmh": 54.15,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 32.0,
+          "intensity_trend_dbz_hr": 3.1
+        },
+        "radiometric": {
+          "max_intensity": 57.6,
+          "mean_intensity": 47.1,
+          "p90_intensity": 55.1,
+          "core_area_km2": 5537.5,
+          "core_ratio": 0.811
+        },
+        "storm_dna": {
+          "archetype": "Severe Supercell",
+          "vector": [
+            0.6831,
+            0.6517,
+            0.9865,
+            0.7622,
+            1.0,
+            0.5415,
+            0.8202,
+            0.0006
+          ],
+          "genes": {
+            "Spatial Scale": 0.6831,
+            "Convective Vigour": 0.6517,
+            "Structural Compactness": 0.9865,
+            "Shear Asymmetry": 0.7622,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5415,
+            "Growth Momentum": 0.8202,
+            "Textural Gradient": 0.0006
+          },
+          "deep_embedding": [
+            0.2577,
+            0.2491,
+            0.2432,
+            0.2432,
+            0.2569,
+            0.2438,
+            0.2433,
+            0.2433,
+            0.2577,
+            0.2499,
+            0.2431,
+            0.2432,
+            0.2869,
+            0.248,
+            0.2437,
+            0.2433
+          ],
+          "raw_metrics": {
+            "area_km2": 6831.25,
+            "max_intensity": 57.58,
+            "mean_intensity": 47.06,
+            "speed_kmh": 54.15,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 32.02,
+            "solidity": 0.99,
+            "core_ratio": 0.81
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 8,
+        "spatial": {
+          "centroid_px": [
+            246.05,
+            292.59
+          ],
+          "centroid_geo": {
+            "lon": 79.8452,
+            "lat": 14.4547
+          },
+          "bbox_px": [
+            228,
+            281,
+            37,
+            24
+          ],
+          "area_km2": 3787.5,
+          "perimeter_km": 248.1,
+          "solidity": 0.974,
+          "circularity": 0.773,
+          "eccentricity": 0.846,
+          "aspect_ratio": 1.88
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -19.75,
+            -17.87
+          ],
+          "speed_kmh": 26.64,
+          "bearing_deg": 227.9,
+          "growth_rate_pct_hr": -18.6,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 41.2,
+          "mean_intensity": 37.6,
+          "p90_intensity": 40.4,
+          "core_area_km2": 0.0,
+          "core_ratio": 0.0
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.3787,
+            0.3238,
+            0.9743,
+            0.8465,
+            0.0,
+            0.2664,
+            0.3143,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.3787,
+            "Convective Vigour": 0.3238,
+            "Structural Compactness": 0.9743,
+            "Shear Asymmetry": 0.8465,
+            "Core Density": 0.0,
+            "Ground Speed": 0.2664,
+            "Growth Momentum": 0.3143,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2752,
+            0.2494,
+            0.2427,
+            0.2427,
+            0.2808,
+            0.2471,
+            0.2432,
+            0.2428,
+            0.2466,
+            0.2498,
+            0.2426,
+            0.2427,
+            0.2613,
+            0.2431,
+            0.2428,
+            0.2428
+          ],
+          "raw_metrics": {
+            "area_km2": 3787.5,
+            "max_intensity": 41.19,
+            "mean_intensity": 37.55,
+            "speed_kmh": 26.64,
+            "bearing_deg": 227.86,
+            "growth_rate_pct_hr": -18.57,
+            "solidity": 0.97,
+            "core_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T12:00:00Z",
+    "frame_idx": 8,
+    "active_event_count": 2,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 9,
+        "spatial": {
+          "centroid_px": [
+            116.0,
+            144.0
+          ],
+          "centroid_geo": {
+            "lon": 76.4914,
+            "lat": 18.2865
+          },
+          "bbox_px": [
+            94,
+            125,
+            45,
+            39
+          ],
+          "area_km2": 7356.2,
+          "perimeter_km": 336.8,
+          "solidity": 0.975,
+          "circularity": 0.815,
+          "eccentricity": 0.757,
+          "aspect_ratio": 1.53
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            45.04,
+            -30.03
+          ],
+          "speed_kmh": 54.13,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 30.7,
+          "intensity_trend_dbz_hr": 3.3
+        },
+        "radiometric": {
+          "max_intensity": 58.4,
+          "mean_intensity": 47.5,
+          "p90_intensity": 55.8,
+          "core_area_km2": 5981.2,
+          "core_ratio": 0.813
+        },
+        "storm_dna": {
+          "archetype": "Severe Supercell",
+          "vector": [
+            0.7356,
+            0.668,
+            0.9751,
+            0.7568,
+            1.0,
+            0.5413,
+            0.8074,
+            0.0006
+          ],
+          "genes": {
+            "Spatial Scale": 0.7356,
+            "Convective Vigour": 0.668,
+            "Structural Compactness": 0.9751,
+            "Shear Asymmetry": 0.7568,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5413,
+            "Growth Momentum": 0.8074,
+            "Textural Gradient": 0.0006
+          },
+          "deep_embedding": [
+            0.2788,
+            0.2494,
+            0.2402,
+            0.2402,
+            0.2565,
+            0.2412,
+            0.2404,
+            0.2404,
+            0.2669,
+            0.249,
+            0.2402,
+            0.2403,
+            0.2837,
+            0.2453,
+            0.2409,
+            0.2404
+          ],
+          "raw_metrics": {
+            "area_km2": 7356.25,
+            "max_intensity": 58.4,
+            "mean_intensity": 47.46,
+            "speed_kmh": 54.13,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 30.74,
+            "solidity": 0.98,
+            "core_ratio": 0.81
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 9,
+        "spatial": {
+          "centroid_px": [
+            244.02,
+            294.38
+          ],
+          "centroid_geo": {
+            "lon": 79.7928,
+            "lat": 14.4086
+          },
+          "bbox_px": [
+            226,
+            283,
+            37,
+            24
+          ],
+          "area_km2": 3521.9,
+          "perimeter_km": 243.7,
+          "solidity": 0.966,
+          "circularity": 0.745,
+          "eccentricity": 0.855,
+          "aspect_ratio": 1.93
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -19.84,
+            -17.86
+          ],
+          "speed_kmh": 26.69,
+          "bearing_deg": 228.0,
+          "growth_rate_pct_hr": -28.1,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 40.8,
+          "mean_intensity": 37.4,
+          "p90_intensity": 40.1,
+          "core_area_km2": 0.0,
+          "core_ratio": 0.0
+        },
+        "storm_dna": {
+          "archetype": "Decaying Stratiform Shield",
+          "vector": [
+            0.3522,
+            0.3158,
+            0.9657,
+            0.8546,
+            0.0,
+            0.2669,
+            0.2195,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.3522,
+            "Convective Vigour": 0.3158,
+            "Structural Compactness": 0.9657,
+            "Shear Asymmetry": 0.8546,
+            "Core Density": 0.0,
+            "Ground Speed": 0.2669,
+            "Growth Momentum": 0.2195,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2838,
+            0.2488,
+            0.2404,
+            0.2404,
+            0.284,
+            0.2455,
+            0.2409,
+            0.2406,
+            0.2511,
+            0.2523,
+            0.2401,
+            0.2403,
+            0.263,
+            0.2411,
+            0.2405,
+            0.2405
+          ],
+          "raw_metrics": {
+            "area_km2": 3521.88,
+            "max_intensity": 40.79,
+            "mean_intensity": 37.42,
+            "speed_kmh": 26.69,
+            "bearing_deg": 228.01,
+            "growth_rate_pct_hr": -28.05,
+            "solidity": 0.97,
+            "core_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T12:15:00Z",
+    "frame_idx": 9,
+    "active_event_count": 3,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 10,
+        "spatial": {
+          "centroid_px": [
+            120.5,
+            147.0
+          ],
+          "centroid_geo": {
+            "lon": 76.6074,
+            "lat": 18.2092
+          },
+          "bbox_px": [
+            98,
+            127,
+            46,
+            41
+          ],
+          "area_km2": 7931.2,
+          "perimeter_km": 345.9,
+          "solidity": 0.978,
+          "circularity": 0.833,
+          "eccentricity": 0.755,
+          "aspect_ratio": 1.52
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            45.02,
+            -30.02
+          ],
+          "speed_kmh": 54.11,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 31.3,
+          "intensity_trend_dbz_hr": 3.1
+        },
+        "radiometric": {
+          "max_intensity": 59.2,
+          "mean_intensity": 47.8,
+          "p90_intensity": 56.6,
+          "core_area_km2": 6537.5,
+          "core_ratio": 0.824
+        },
+        "storm_dna": {
+          "archetype": "Severe Supercell",
+          "vector": [
+            0.7931,
+            0.6837,
+            0.9784,
+            0.7548,
+            1.0,
+            0.5411,
+            0.8127,
+            0.0006
+          ],
+          "genes": {
+            "Spatial Scale": 0.7931,
+            "Convective Vigour": 0.6837,
+            "Structural Compactness": 0.9784,
+            "Shear Asymmetry": 0.7548,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5411,
+            "Growth Momentum": 0.8127,
+            "Textural Gradient": 0.0006
+          },
+          "deep_embedding": [
+            0.2662,
+            0.248,
+            0.2406,
+            0.2407,
+            0.2596,
+            0.2417,
+            0.2408,
+            0.2408,
+            0.2679,
+            0.2505,
+            0.2405,
+            0.2406,
+            0.2884,
+            0.2458,
+            0.2412,
+            0.2408
+          ],
+          "raw_metrics": {
+            "area_km2": 7931.25,
+            "max_intensity": 59.18,
+            "mean_intensity": 47.83,
+            "speed_kmh": 54.11,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 31.27,
+            "solidity": 0.98,
+            "core_ratio": 0.82
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 10,
+        "spatial": {
+          "centroid_px": [
+            242.02,
+            296.16
+          ],
+          "centroid_geo": {
+            "lon": 79.7412,
+            "lat": 14.3626
+          },
+          "bbox_px": [
+            224,
+            285,
+            37,
+            23
+          ],
+          "area_km2": 3331.2,
+          "perimeter_km": 237.3,
+          "solidity": 0.966,
+          "circularity": 0.744,
+          "eccentricity": 0.86,
+          "aspect_ratio": 1.96
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -19.91,
+            -17.84
+          ],
+          "speed_kmh": 26.73,
+          "bearing_deg": 228.1,
+          "growth_rate_pct_hr": -21.7,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 40.4,
+          "mean_intensity": 37.2,
+          "p90_intensity": 39.7,
+          "core_area_km2": 0.0,
+          "core_ratio": 0.0
+        },
+        "storm_dna": {
+          "archetype": "Decaying Stratiform Shield",
+          "vector": [
+            0.3331,
+            0.308,
+            0.9665,
+            0.8603,
+            0.0,
+            0.2673,
+            0.2835,
+            0.0
+          ],
+          "genes": {
+            "Spatial Scale": 0.3331,
+            "Convective Vigour": 0.308,
+            "Structural Compactness": 0.9665,
+            "Shear Asymmetry": 0.8603,
+            "Core Density": 0.0,
+            "Ground Speed": 0.2673,
+            "Growth Momentum": 0.2835,
+            "Textural Gradient": 0.0
+          },
+          "deep_embedding": [
+            0.2871,
+            0.2513,
+            0.2408,
+            0.2408,
+            0.282,
+            0.2459,
+            0.2414,
+            0.241,
+            0.246,
+            0.2498,
+            0.2407,
+            0.2408,
+            0.2624,
+            0.2416,
+            0.2409,
+            0.2409
+          ],
+          "raw_metrics": {
+            "area_km2": 3331.25,
+            "max_intensity": 40.4,
+            "mean_intensity": 37.23,
+            "speed_kmh": 26.73,
+            "bearing_deg": 228.14,
+            "growth_rate_pct_hr": -21.65,
+            "solidity": 0.97,
+            "core_ratio": 0.0
+          }
+        }
+      },
+      {
+        "track_id": 3,
+        "status": "GENESIS",
+        "age_frames": 1,
+        "spatial": {
+          "centroid_px": [
+            149.5,
+            309.5
+          ],
+          "centroid_geo": {
+            "lon": 77.3553,
+            "lat": 14.0186
+          },
+          "bbox_px": [
+            144,
+            307,
+            12,
+            6
+          ],
+          "area_km2": 281.2,
+          "perimeter_km": 68.3,
+          "solidity": 1.0,
+          "circularity": 0.758,
+          "eccentricity": 0.831,
+          "aspect_ratio": 1.8
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            0.0,
+            0.0
+          ],
+          "speed_kmh": 0.0,
+          "bearing_deg": 0.0,
+          "growth_rate_pct_hr": 0.0,
+          "intensity_trend_dbz_hr": 0.0
+        },
+        "radiometric": {
+          "max_intensity": 43.6,
+          "mean_intensity": 42.4,
+          "p90_intensity": 43.3,
+          "core_area_km2": 200.0,
+          "core_ratio": 0.711
+        },
+        "storm_dna": {
+          "archetype": "Isolated Convective Cluster",
+          "vector": [
+            0.0281,
+            0.371,
+            1.0,
+            0.831,
+            1.0,
+            0.0,
+            0.5,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.0281,
+            "Convective Vigour": 0.371,
+            "Structural Compactness": 1.0,
+            "Shear Asymmetry": 0.831,
+            "Core Density": 1.0,
+            "Ground Speed": 0.0,
+            "Growth Momentum": 0.5,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.255,
+            0.2538,
+            0.2492,
+            0.2491,
+            0.2494,
+            0.2491,
+            0.2492,
+            0.2492,
+            0.2495,
+            0.2495,
+            0.2493,
+            0.2493,
+            0.2503,
+            0.2497,
+            0.2492,
+            0.2492
+          ],
+          "raw_metrics": {
+            "area_km2": 281.25,
+            "max_intensity": 43.55,
+            "mean_intensity": 42.42,
+            "speed_kmh": 0.0,
+            "bearing_deg": 0.0,
+            "growth_rate_pct_hr": 0.0,
+            "solidity": 1.0,
+            "core_ratio": 0.71
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T12:30:00Z",
+    "frame_idx": 10,
+    "active_event_count": 3,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "MATURE",
+        "age_frames": 11,
+        "spatial": {
+          "centroid_px": [
+            125.0,
+            150.0
+          ],
+          "centroid_geo": {
+            "lon": 76.7235,
+            "lat": 18.1318
+          },
+          "bbox_px": [
+            102,
+            130,
+            47,
+            41
+          ],
+          "area_km2": 8225.0,
+          "perimeter_km": 353.8,
+          "solidity": 0.98,
+          "circularity": 0.825,
+          "eccentricity": 0.76,
+          "aspect_ratio": 1.54
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            45.01,
+            -30.01
+          ],
+          "speed_kmh": 54.1,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 14.8,
+          "intensity_trend_dbz_hr": 3.3
+        },
+        "radiometric": {
+          "max_intensity": 60.0,
+          "mean_intensity": 48.5,
+          "p90_intensity": 57.3,
+          "core_area_km2": 7143.8,
+          "core_ratio": 0.869
+        },
+        "storm_dna": {
+          "archetype": "Severe Supercell",
+          "vector": [
+            0.8225,
+            0.7,
+            0.9799,
+            0.7602,
+            1.0,
+            0.541,
+            0.6481,
+            0.0006
+          ],
+          "genes": {
+            "Spatial Scale": 0.8225,
+            "Convective Vigour": 0.7,
+            "Structural Compactness": 0.9799,
+            "Shear Asymmetry": 0.7602,
+            "Core Density": 1.0,
+            "Ground Speed": 0.541,
+            "Growth Momentum": 0.6481,
+            "Textural Gradient": 0.0006
+          },
+          "deep_embedding": [
+            0.2655,
+            0.2502,
+            0.242,
+            0.242,
+            0.2551,
+            0.2429,
+            0.2422,
+            0.2421,
+            0.2639,
+            0.2498,
+            0.242,
+            0.242,
+            0.2842,
+            0.247,
+            0.2426,
+            0.2422
+          ],
+          "raw_metrics": {
+            "area_km2": 8225.0,
+            "max_intensity": 60.0,
+            "mean_intensity": 48.52,
+            "speed_kmh": 54.1,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 14.81,
+            "solidity": 0.98,
+            "core_ratio": 0.87
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 11,
+        "spatial": {
+          "centroid_px": [
+            240.0,
+            298.0
+          ],
+          "centroid_geo": {
+            "lon": 79.6891,
+            "lat": 14.3152
+          },
+          "bbox_px": [
+            223,
+            288,
+            35,
+            21
+          ],
+          "area_km2": 2937.5,
+          "perimeter_km": 223.1,
+          "solidity": 0.975,
+          "circularity": 0.741,
+          "eccentricity": 0.867,
+          "aspect_ratio": 2.01
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -20.04,
+            -18.03
+          ],
+          "speed_kmh": 26.95,
+          "bearing_deg": 228.0,
+          "growth_rate_pct_hr": -47.3,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 40.0,
+          "mean_intensity": 37.2,
+          "p90_intensity": 39.4,
+          "core_area_km2": 0.0,
+          "core_ratio": 0.0
+        },
+        "storm_dna": {
+          "archetype": "Decaying Stratiform Shield",
+          "vector": [
+            0.2937,
+            0.3,
+            0.9751,
+            0.8673,
+            0.0,
+            0.2695,
+            0.0272,
+            0.0
+          ],
+          "genes": {
+            "Spatial Scale": 0.2937,
+            "Convective Vigour": 0.3,
+            "Structural Compactness": 0.9751,
+            "Shear Asymmetry": 0.8673,
+            "Core Density": 0.0,
+            "Ground Speed": 0.2695,
+            "Growth Momentum": 0.0272,
+            "Textural Gradient": 0.0
+          },
+          "deep_embedding": [
+            0.2839,
+            0.2509,
+            0.2414,
+            0.2414,
+            0.2828,
+            0.2464,
+            0.242,
+            0.2416,
+            0.2456,
+            0.2473,
+            0.2415,
+            0.2415,
+            0.2625,
+            0.2421,
+            0.2415,
+            0.2416
+          ],
+          "raw_metrics": {
+            "area_km2": 2937.5,
+            "max_intensity": 40.0,
+            "mean_intensity": 37.2,
+            "speed_kmh": 26.95,
+            "bearing_deg": 228.02,
+            "growth_rate_pct_hr": -47.28,
+            "solidity": 0.98,
+            "core_ratio": 0.0
+          }
+        }
+      },
+      {
+        "track_id": 3,
+        "status": "INTENSIFYING",
+        "age_frames": 2,
+        "spatial": {
+          "centroid_px": [
+            152.84,
+            306.04
+          ],
+          "centroid_geo": {
+            "lon": 77.4414,
+            "lat": 14.1079
+          },
+          "bbox_px": [
+            146,
+            302,
+            15,
+            9
+          ],
+          "area_km2": 456.2,
+          "perimeter_km": 89.5,
+          "solidity": 0.936,
+          "circularity": 0.716,
+          "eccentricity": 0.8,
+          "aspect_ratio": 1.67
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            15.76,
+            16.34
+          ],
+          "speed_kmh": 22.7,
+          "bearing_deg": 44.0,
+          "growth_rate_pct_hr": 248.9,
+          "intensity_trend_dbz_hr": 5.0
+        },
+        "radiometric": {
+          "max_intensity": 44.8,
+          "mean_intensity": 43.2,
+          "p90_intensity": 44.5,
+          "core_area_km2": 487.5,
+          "core_ratio": 1.068
+        },
+        "storm_dna": {
+          "archetype": "Rapidly Intensifying Pulse Cell",
+          "vector": [
+            0.0456,
+            0.3959,
+            0.9359,
+            0.8003,
+            1.0,
+            0.227,
+            1.0,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.0456,
+            "Convective Vigour": 0.3959,
+            "Structural Compactness": 0.9359,
+            "Shear Asymmetry": 0.8003,
+            "Core Density": 1.0,
+            "Ground Speed": 0.227,
+            "Growth Momentum": 1.0,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2555,
+            0.257,
+            0.2476,
+            0.2476,
+            0.2517,
+            0.2485,
+            0.2477,
+            0.2477,
+            0.252,
+            0.2513,
+            0.2478,
+            0.2478,
+            0.2531,
+            0.249,
+            0.2478,
+            0.2477
+          ],
+          "raw_metrics": {
+            "area_km2": 456.25,
+            "max_intensity": 44.8,
+            "mean_intensity": 43.23,
+            "speed_kmh": 22.7,
+            "bearing_deg": 43.96,
+            "growth_rate_pct_hr": 248.89,
+            "solidity": 0.94,
+            "core_ratio": 1.07
+          }
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T12:45:00Z",
+    "frame_idx": 11,
+    "active_event_count": 3,
+    "events": [
+      {
+        "track_id": 1,
+        "status": "INTENSIFYING",
+        "age_frames": 12,
+        "spatial": {
+          "centroid_px": [
+            129.5,
+            153.0
+          ],
+          "centroid_geo": {
+            "lon": 76.8395,
+            "lat": 18.0544
+          },
+          "bbox_px": [
+            106,
+            132,
+            48,
+            43
+          ],
+          "area_km2": 8850.0,
+          "perimeter_km": 363.0,
+          "solidity": 0.983,
+          "circularity": 0.844,
+          "eccentricity": 0.758,
+          "aspect_ratio": 1.53
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            45.0,
+            -30.0
+          ],
+          "speed_kmh": 54.09,
+          "bearing_deg": 123.7,
+          "growth_rate_pct_hr": 30.4,
+          "intensity_trend_dbz_hr": 3.1
+        },
+        "radiometric": {
+          "max_intensity": 60.8,
+          "mean_intensity": 48.9,
+          "p90_intensity": 58.0,
+          "core_area_km2": 7750.0,
+          "core_ratio": 0.876
+        },
+        "storm_dna": {
+          "archetype": "Severe Supercell",
+          "vector": [
+            0.885,
+            0.7157,
+            0.9833,
+            0.758,
+            1.0,
+            0.5409,
+            0.804,
+            0.0006
+          ],
+          "genes": {
+            "Spatial Scale": 0.885,
+            "Convective Vigour": 0.7157,
+            "Structural Compactness": 0.9833,
+            "Shear Asymmetry": 0.758,
+            "Core Density": 1.0,
+            "Ground Speed": 0.5409,
+            "Growth Momentum": 0.804,
+            "Textural Gradient": 0.0006
+          },
+          "deep_embedding": [
+            0.258,
+            0.2482,
+            0.2414,
+            0.2415,
+            0.258,
+            0.2423,
+            0.2415,
+            0.2415,
+            0.2705,
+            0.25,
+            0.2413,
+            0.2413,
+            0.2889,
+            0.2465,
+            0.242,
+            0.2416
+          ],
+          "raw_metrics": {
+            "area_km2": 8850.0,
+            "max_intensity": 60.79,
+            "mean_intensity": 48.88,
+            "speed_kmh": 54.09,
+            "bearing_deg": 123.69,
+            "growth_rate_pct_hr": 30.4,
+            "solidity": 0.98,
+            "core_ratio": 0.88
+          }
+        }
+      },
+      {
+        "track_id": 2,
+        "status": "DISSIPATING",
+        "age_frames": 12,
+        "spatial": {
+          "centroid_px": [
+            238.1,
+            299.74
+          ],
+          "centroid_geo": {
+            "lon": 79.6401,
+            "lat": 14.2703
+          },
+          "bbox_px": [
+            222,
+            290,
+            33,
+            20
+          ],
+          "area_km2": 2706.2,
+          "perimeter_km": 214.0,
+          "solidity": 0.971,
+          "circularity": 0.743,
+          "eccentricity": 0.868,
+          "aspect_ratio": 2.02
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            -19.7,
+            -17.86
+          ],
+          "speed_kmh": 26.6,
+          "bearing_deg": 227.8,
+          "growth_rate_pct_hr": -31.5,
+          "intensity_trend_dbz_hr": -1.6
+        },
+        "radiometric": {
+          "max_intensity": 39.6,
+          "mean_intensity": 37.0,
+          "p90_intensity": 39.1,
+          "core_area_km2": 0.0,
+          "core_ratio": 0.0
+        },
+        "storm_dna": {
+          "archetype": "Decaying Stratiform Shield",
+          "vector": [
+            0.2706,
+            0.292,
+            0.9709,
+            0.8682,
+            0.0,
+            0.266,
+            0.1851,
+            0.0
+          ],
+          "genes": {
+            "Spatial Scale": 0.2706,
+            "Convective Vigour": 0.292,
+            "Structural Compactness": 0.9709,
+            "Shear Asymmetry": 0.8682,
+            "Core Density": 0.0,
+            "Ground Speed": 0.266,
+            "Growth Momentum": 0.1851,
+            "Textural Gradient": 0.0
+          },
+          "deep_embedding": [
+            0.2779,
+            0.2502,
+            0.2431,
+            0.2431,
+            0.2786,
+            0.2475,
+            0.2435,
+            0.2432,
+            0.2463,
+            0.2491,
+            0.243,
+            0.243,
+            0.2579,
+            0.2432,
+            0.2431,
+            0.2431
+          ],
+          "raw_metrics": {
+            "area_km2": 2706.25,
+            "max_intensity": 39.6,
+            "mean_intensity": 37.04,
+            "speed_kmh": 26.6,
+            "bearing_deg": 227.81,
+            "growth_rate_pct_hr": -31.49,
+            "solidity": 0.97,
+            "core_ratio": 0.0
+          }
+        }
+      },
+      {
+        "track_id": 3,
+        "status": "INTENSIFYING",
+        "age_frames": 3,
+        "spatial": {
+          "centroid_px": [
+            156.0,
+            302.5
+          ],
+          "centroid_geo": {
+            "lon": 77.5229,
+            "lat": 14.1991
+          },
+          "bbox_px": [
+            148,
+            297,
+            17,
+            12
+          ],
+          "area_km2": 743.8,
+          "perimeter_km": 108.6,
+          "solidity": 0.952,
+          "circularity": 0.792,
+          "eccentricity": 0.741,
+          "aspect_ratio": 1.49
+        },
+        "kinematics": {
+          "velocity_kmh": [
+            28.08,
+            31.0
+          ],
+          "speed_kmh": 41.83,
+          "bearing_deg": 42.2,
+          "growth_rate_pct_hr": 252.1,
+          "intensity_trend_dbz_hr": 4.7
+        },
+        "radiometric": {
+          "max_intensity": 46.0,
+          "mean_intensity": 43.8,
+          "p90_intensity": 45.6,
+          "core_area_km2": 775.0,
+          "core_ratio": 1.042
+        },
+        "storm_dna": {
+          "archetype": "Squall Line / Linear Multicell",
+          "vector": [
+            0.0744,
+            0.4194,
+            0.952,
+            0.741,
+            1.0,
+            0.4183,
+            1.0,
+            0.0001
+          ],
+          "genes": {
+            "Spatial Scale": 0.0744,
+            "Convective Vigour": 0.4194,
+            "Structural Compactness": 0.952,
+            "Shear Asymmetry": 0.741,
+            "Core Density": 1.0,
+            "Ground Speed": 0.4183,
+            "Growth Momentum": 1.0,
+            "Textural Gradient": 0.0001
+          },
+          "deep_embedding": [
+            0.2571,
+            0.2547,
+            0.2471,
+            0.2471,
+            0.2541,
+            0.2485,
+            0.2472,
+            0.2472,
+            0.2522,
+            0.2518,
+            0.2472,
+            0.2471,
+            0.2549,
+            0.249,
+            0.2472,
+            0.2472
+          ],
+          "raw_metrics": {
+            "area_km2": 743.75,
+            "max_intensity": 45.97,
+            "mean_intensity": 43.84,
+            "speed_kmh": 41.83,
+            "bearing_deg": 42.18,
+            "growth_rate_pct_hr": 252.05,
+            "solidity": 0.95,
+            "core_ratio": 1.04
+          }
+        }
+      }
+    ]
+  }
+]
